@@ -1,0 +1,8 @@
+<M> = <10>
+<N> = <10>
+<P> = <10>
+<MaxBufferSize> = <5>
+<SplitSize> = <2>
+<NumConsumer> = <2>
+<MaxProducerSleepTime> = <20>
+<MaxConsumerSleepTime> = <80>
